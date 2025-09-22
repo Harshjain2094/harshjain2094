@@ -28,7 +28,7 @@
 ### 📌 Selected public repos
 > (Most of my day job work is private; these are a few public examples.)
 - [`Dev Profile`](https://github.com/Harshjain2094/Harsh.dev) — personal developer profile. 
-- ['BE Practice'] (https://github.com/Harshjain2094/chirp) - Chat Based BE.
+- [`BE Practice`](https://github.com/Harshjain2094/chirp) - Chat Based BE.
 ### ✍️ Things I care about
 - Smooth, **jank-free** Compose UIs  
 - **Network efficiency**: dedupe calls, smart caching, bounding boxes, RPS controls  
